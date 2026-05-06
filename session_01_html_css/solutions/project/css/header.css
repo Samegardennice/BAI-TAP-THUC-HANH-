@@ -1,0 +1,6 @@
+.header{
+    width: 100%;
+    position: sticky;
+    border: 1px solid;
+    border-style: groove;
+}
